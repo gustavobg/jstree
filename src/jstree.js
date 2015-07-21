@@ -3932,7 +3932,7 @@
 				this.settings.core.error.call(this, this._data.core.last_error);
 				return false;
 			}
-			node = old_ins ? old_ins.get_json(obj, { no_id : true, no_data : true, no_state : true }) : obj;
+			node = old_ins ? old_ins.get_json(obj, { no_id : true, no_data : false, no_state : true }) : obj;
 			if(!node) { return false; }
 			if(node.id === true) { delete node.id; }
 			node = this._parse_model_from_json(node, new_par.id, new_par.parents.concat());
