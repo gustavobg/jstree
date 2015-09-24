@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ce4229e-c754-4524-931f-30b7bb3c6cc5" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/visual/screenshots/desktop/desktop.png" afterPath="$PROJECT_DIR$/test/visual/screenshots/desktop/desktop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/visual/screenshots/desktop/home.png" afterPath="$PROJECT_DIR$/test/visual/screenshots/desktop/home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/visual/screenshots/mobile/home.png" afterPath="$PROJECT_DIR$/test/visual/screenshots/mobile/home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/visual/screenshots/mobile/mobile.png" afterPath="$PROJECT_DIR$/test/visual/screenshots/mobile/mobile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/component.json" afterPath="$PROJECT_DIR$/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gruntfile.js" afterPath="$PROJECT_DIR$/gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jstree.jquery.json" afterPath="$PROJECT_DIR$/jstree.jquery.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jstree.js" afterPath="$PROJECT_DIR$/dist/jstree.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/jstree.min.js" afterPath="$PROJECT_DIR$/dist/jstree.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/jstree.search.js" afterPath="$PROJECT_DIR$/src/jstree.search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/themes/default/style.css" afterPath="$PROJECT_DIR$/dist/themes/default/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/themes/default-dark/style.css" afterPath="$PROJECT_DIR$/dist/themes/default-dark/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/default/style.css" afterPath="$PROJECT_DIR$/src/themes/default/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/themes/default-dark/style.css" afterPath="$PROJECT_DIR$/src/themes/default-dark/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jstree.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,8 +44,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.107086614">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.10725552">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -44,7 +60,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/jstree.js" />
+        <option value="$PROJECT_DIR$/gruntfile.js" />
+        <option value="$PROJECT_DIR$/src/jstree.search.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -105,6 +124,52 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jstree" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -137,7 +202,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32911393" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33016878" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1098,14 +1163,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33552632">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/jstree.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33333334">
@@ -2040,79 +2097,201 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gruntfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.103937">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.5977918">
+          <caret line="205" column="37" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
           <folding>
-            <marker date="1443120371715" expanded="false" signature="-1:-1" placeholder="/*...*/" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;separator&quot;: '\n'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/&lt;%= pkg.name %&gt;.js'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;banner&quot;: '/*! &lt;%= pkg.title || pkg.name %&gt; - v&lt;%= pkg.version %&gt; - &lt;%= grunt.template.today(&quot;yyyy-mm-dd&quot;) %&gt; - (&lt;%= _.pluck(pkg.licenses, &quot;type&quot;).join(&quot;, &quot;) %&gt;) */\n'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;ascii_only&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;hoist_funs&quot;: false...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/&lt;%= pkg.name %&gt;.min.js'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;curly&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;console&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'docs'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/jstree.js'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;cleancss&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dist/themes/default/style.min.css&quot;: &quot;src/themes/default/style.less&quot;...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;src/themes/default/style.css&quot;: &quot;src/themes/default/style.less&quot;...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;atBegin&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;atBegin&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;screenshotRoot&quot;: 'test/visual/screenshots/'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'desktop'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;width&quot;: 1280...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'mobile'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;width&quot;: 360...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;optimizationLevel&quot;: 7...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;overwrite&quot;: true...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="[...]" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;from&quot;: '{{VERSION}}'...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{&quot;from&quot;: /&quot;version&quot;: &quot;[^&quot;]+&quot;/g...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="//..." />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
-            <marker date="1443120371715" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;separator&quot;: '\n'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/&lt;%= pkg.name %&gt;.js'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;banner&quot;: '/*! &lt;%= pkg.title || pkg.name %&gt; - v&lt;%= pkg.version %&gt; - &lt;%= grunt.template.today(&quot;yyyy-mm-dd&quot;) %&gt; - (&lt;%= _.pluck(pkg.licenses, &quot;type&quot;).join(&quot;, &quot;) %&gt;) */\n'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;ascii_only&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;hoist_funs&quot;: false...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/&lt;%= pkg.name %&gt;.min.js'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;curly&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;console&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'docs'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'dist/jstree.js'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;cleancss&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dist/themes/default/style.min.css&quot;: &quot;src/themes/default/style.less&quot;...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;src/themes/default/style.css&quot;: &quot;src/themes/default/style.less&quot;...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;atBegin&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;atBegin&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;screenshotRoot&quot;: 'test/visual/screenshots/'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'desktop'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;width&quot;: 1280...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;dest&quot;: 'mobile'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;width&quot;: 360...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;optimizationLevel&quot;: 7...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;expand&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;overwrite&quot;: true...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;from&quot;: '{{VERSION}}'...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{&quot;from&quot;: /&quot;version&quot;: &quot;[^&quot;]+&quot;/g...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443122823897" expanded="true" signature="-1:-1" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jstree.search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4290221">
+          <caret line="520" column="4" selection-start-line="520" selection-start-column="4" selection-end-line="520" selection-end-column="4" />
+          <folding>
+            <marker date="1443125870080" expanded="false" signature="-1:-1" placeholder="/** ### Search plugin ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/*...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** stores all defaults for the search plugin ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{&quot;ajax&quot;: false...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** a jQuery-like AJAX config, which jstree uses if a server should be queried for results. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if the search should be fuzzy or not (should `chnd3` match `child node 3`). Default is `false`. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if the search should be case sensitive. Default is `false`. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if the tree should be filtered (by default) to show only matching nodes (keep in mind this can be a heavy on large trees in old browsers). ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if the children of matched element are shown (when show_only_matches is true) ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if all nodes opened to reveal the search result, should be closed when the search is cleared or a new search is performed. Default is `true`. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** Indicates if only leaf nodes should be included in search results. Default is `false`. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** If set to a function it wil be called in the instance's scope with two arguments - search string and node (where node will be every node in the structure, so use with caution). ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="[...]" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** used to search the tree nodes for a given string ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** triggered after search is complete ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** used to clear the last search (removes classes and shows all nodes if filtering is on) ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** triggered after search is complete ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="/** opens nodes that need to be opened to reveal the search results. Used only internally. ...*/" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{&quot;isMatch&quot;: true...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{&quot;isMatch&quot;: false...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="{&quot;location&quot;: 0...}" />
+            <marker date="1443125870080" expanded="true" signature="-1:-1" placeholder="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.36408567">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.107086614">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.10725552">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
           <folding />
         </state>
       </provider>

@@ -125,7 +125,7 @@ module.exports = function(grunt) {
     resemble: {
       options: {
         screenshotRoot: 'test/visual/screenshots/',
-        url: 'http://127.0.0.1/jstree/test/visual/',
+        url: 'http://127.0.0.1:8080/jstree/test/visual/',
         gm: false
       },
       desktop: {
